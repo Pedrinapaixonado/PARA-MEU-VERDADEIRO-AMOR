@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10 Coisas Que Amo em Você</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #a020f0; /* Roxo */
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background-color: #a020f0; /* Roxo */
+            color: white;
+            padding: 10px;
+            margin: 10px auto;
+            width: 60%;
+            border-radius: 10px;
+            font-size: 18px;
+        }
+        .heart {
+            color: red;
+            font-size: 22px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>10 Coisas Que Amo em Você, Minha Princesa</h1>
+
+    <ul>
+        <li>1 - Sua voz</li>
+        <li>2 - Seu cabelo</li>
+        <li>3 - Seu jeito</li>
+        <li>4 - O jeito que me trata</li>
+        <li>5 - Seu ciúmes</li>
+        <li>6 - Suas brincadeiras</li>
+        <li>7 - Seu jeito engraçado e carismático</li>
+        <li>8 - Suas unhas</li>
+        <li>9 - Seu jeitinho fofo</li>
+        <li>10 - VOCÊ POR INTEIRA <span class="heart">❤</span></li>
+    </ul>
+
+</body>
+</html>
